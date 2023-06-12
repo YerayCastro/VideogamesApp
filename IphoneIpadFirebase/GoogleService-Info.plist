@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Usar la libreria</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Usar la camara</string>
+	<key>CLIENT_ID</key>
+	<string>786116425052-d26kuasatf3cr8r2dtuibk78v2hb29tu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.786116425052-d26kuasatf3cr8r2dtuibk78v2hb29tu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKIL__eu9fwgeKxf35W1v14SDQObruVEo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>786116425052</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yerycastro.IphoneIpadFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>iphoneipadfirebase-6322b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iphoneipadfirebase-6322b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:786116425052:ios:2a77a624854b1171257d99</string>
+</dict>
+</plist>
